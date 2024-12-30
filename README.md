@@ -7,4 +7,4 @@
 - 🎓 **2022 BE Graduate in Information Technology**  
 - 💻 **Former Software Developer Intern at <a href="https://www.infovision.com/">Infovision Inc.</a>**
 - 🌱 **Passionate about building efficient software solutions and exploring new technologies.**
-- 🖇 **Let's connect on <a href="https://www.linkedin.com/in/anushree-more-12112000">LinkedIn</a>**  
+- 🖇 **Let's connect on <a href="https://www.linkedin.com/in/anushree-more-dev">LinkedIn</a>**  
