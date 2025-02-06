@@ -21,5 +21,5 @@ My&nbsp;name is&nbsp;Anushree. I&rsquo;m a&nbsp;frontend developer from India.<b
 [![JavaScript](img/js.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 [![React](img/react.svg)](https://react.dev/)
 [![Typescript](img/typescript.svg)](https://www.typescriptlang.org/)
-[![Typescript](img/mui.svg)](https://mui.com/)
+[![mui](img/mui.svg)](https://mui.com/)
 [![Visual Studio Code](img/vscode.svg)](https://code.visualstudio.com/)
