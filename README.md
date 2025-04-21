@@ -24,3 +24,5 @@ My&nbsp;name is&nbsp;Anushree. I&rsquo;m a&nbsp;frontend developer from India.<b
 [![mui](img/mui.svg)](https://mui.com/)
 [![firebase](img/firebase.svg)](https://firebase.google.com/)
 [![Visual Studio Code](img/vscode.svg)](https://code.visualstudio.com/)
+
+![Profile views](https://komarev.com/ghpvc/?username=anushree-more123&color=green)
