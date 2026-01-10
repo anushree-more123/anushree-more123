@@ -8,11 +8,11 @@ My&nbsp;name is&nbsp;Anushree. I&rsquo;m a&nbsp;frontend developer from India.<b
 
 ###### Glad to see you here :heart:
 
-🏢 **Sr. Software Development Engineer at <a href="https://ifelsecloud.com//">If Else Cloud</a>**  
-🎓 **2022 BE Graduate in Information Technology**  
-💻 **Former Software Developer Intern at <a href="https://www.infovision.com/">Infovision Inc.</a>**     
-🌱 **Passionate about building efficient software solutions and exploring new technologies.**      
-🖇 **Let's connect on <a href="https://www.linkedin.com/in/anushree-more-dev">LinkedIn</a>**  
+🏢 **Sr. Software Development Engineer @ <a href="https://ifelsecloud.com//">If Else Cloud</a>**  
+🎓 **IT Graduate | Class of 2022**  
+💼 **3+ years of industry experience**     
+🌱 **Building clean, efficient software & constantly learning new tech**      
+🤝 **Let's connect on <a href="https://www.linkedin.com/in/anushree-more-dev">LinkedIn</a>**  
 
 ## Languages and Tools
 
