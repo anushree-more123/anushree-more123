@@ -8,7 +8,7 @@ My&nbsp;name is&nbsp;Anushree. I&rsquo;m a&nbsp;frontend developer from India.<b
 
 ###### Glad to see you here :heart:
 
-🏢 **Sr. Software Development Engineer at <a href="https://www.anveshak.com/">Anveshak Technology & Knowledge Solutions LLP</a>**  
+🏢 **Sr. Software Development Engineer at <a href="https://ifelsecloud.com//">If Else</a>**  
 🎓 **2022 BE Graduate in Information Technology**  
 💻 **Former Software Developer Intern at <a href="https://www.infovision.com/">Infovision Inc.</a>**     
 🌱 **Passionate about building efficient software solutions and exploring new technologies.**      
