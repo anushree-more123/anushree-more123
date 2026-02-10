@@ -2,7 +2,12 @@
 👩‍💻 Senior Software Development Engineer | React & React Native Developer<br>🎓 IT Graduate | Class of 2022<br>💼 3.5+ years of industry experience building web & mobile apps<br>🌱 Passionate about clean, scalable software & continuous learning
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushree-more-dev/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25895650/anushree-more) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moreanushree2@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushree-more-dev/) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25895650/anushree-more) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moreanushree2@gmail.com) 
+
+## 📁 Portfolio
+[![Portfolio](https://img.shields.io/badge/%20Portfolio-purple)](https://anushree-more-portfolio.netlify.app/)
 
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
