@@ -1,5 +1,7 @@
 # 💫 About Me:
-👩‍💻 Senior Software Development Engineer | React & React Native Developer<br>🎓 IT Graduate | Class of 2022<br>💼 3.5+ years of industry experience building web & mobile apps<br>🌱 Passionate about clean, scalable software & continuous learning
+👩‍💻 Senior Software Development Engineer | React & React Native Developer<br>
+🎓 IT Graduate | Class of 2022<br>
+💼 3.5+ years of industry experience building web & mobile apps<br>🌱 Passionate about clean, scalable software & continuous learning
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushree-more-dev/) 
