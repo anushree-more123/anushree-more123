@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 👩‍💻 Senior Software Development Engineer | React & React Native Developer<br>
 🎓 IT Graduate | Class of 2022<br>
 💼 3.5+ years of industry experience building web & mobile apps<br>🌱 Passionate about clean, scalable software & continuous learning
